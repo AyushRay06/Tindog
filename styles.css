@@ -158,6 +158,24 @@ p{
     font-size: 50px;
     color: black;
 }
-.link:hover{
-    color:#d74d62;
+.insta:hover{
+    color:#e91ca5;
+}
+.twitter:hover{
+    color: rgb(29, 161, 242);
+}
+.github:hover{
+    color: #230022;
+}
+
+.mail:hover{
+    color: rgb(235, 202, 104);
+}
+
+.linkedin:hover{
+    color:rgb(10, 102, 194);
+}
+
+.youtube:hover{
+    color: #FF0000;
 }

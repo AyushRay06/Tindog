@@ -26,6 +26,17 @@ padding: 3% 15%;
 
     }
 }
+.image{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    transition: transform ease 300ms;
+    &:hover{
+        transform: translateY(-6px);
+        font-weight: bold;
+
+    }
+}
 #title{
     background-color: #ff4c68;
     color: white;

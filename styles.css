@@ -139,6 +139,15 @@ p{
     margin-bottom: 10%;
 }
 
+/*Provides a change of text color that matches the red and white color theme when a visitor hovers over the text. Phillip Andrews*/
+.details:hover {
+    color: #d74d62;
+}
+
+.caption:hover {
+    color: #d74d62;
+}
+
 .dog-type{
   font-family: "Montserrat";
   font-size: 60px;
@@ -166,6 +175,14 @@ p{
     border-width: 1px;
 }
 
+/*Provided an animation to make each price option standout when hovering over the specific option. Phillip Andrews*/
+div .card-body:hover {
+    border: 1px solid;
+    padding: 15px;
+    box-shadow: 10px 20px #d74d62;
+    transition: box-shadow 0.3s ease-in-out;
+    border-radius: 5px;
+}
 
 /* call to  action */
 
